@@ -1,5 +1,5 @@
 # TestingCashFlow
-Cash Flow Project, full source code, for (https://dev.azure.com/GrantingTechnology-Community/_git/Download-Trial-Version)GT architecture studies
+Cash Flow Project, the project was developed using the GT architecture, access into (https://dev.azure.com/GrantingTechnology-Community/_git/Download-Trial-Version)GT architecture studies
 
 Este projeto teve como principal finalidade, apresentar como é fácil desenvolver usando a arquitetura GT, apresento meu projeto de aproximados 11 anos de estudos focados na arquitetura e engenharia de software.
 Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no dia 02/03/2023 17:00.
