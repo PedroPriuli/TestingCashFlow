@@ -20,6 +20,8 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 • Inicialmente a aplicação(softare) não necessitará ajustes na configurações a serem feitas, a não ser que o Murphy entre em cena!
 
+Necessário ter o framework instalado para NetCore 6, também Sdks\Microsoft.NET.Sdk 5.0.413
+
 • Baixar o projeto completo (https://github.com/PedroPriuli/TestingCashFlow/blob/main/download) 
 
 • Baixar o script database SQL (https://github.com/PedroPriuli/TestingCashFlow/blob/main/Sql), script de restauração da base
