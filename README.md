@@ -28,14 +28,12 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 • Baixar o script database SQL (https://github.com/PedroPriuli/TestingCashFlow/blob/main/SQL_create_table_single), script das tabelas, necessárias!
 
-caso necessário, os scripts das 2 tabelas utilizadas estão disponiveis individualmente (https://github.com/PedroPriuli/TestingCashFlow/blob/main/SQL_create_table_single )
 
-# Arquitetura GT
+# Arquitetura 
 
 
-Estarei documentando a arquitetura conforme possibilidade, mas continuo trabalhando para facilitar o desenvolvimento e velocidade na produção.
+Tenho toda a documentação da arquitetura que foi desenvolvida por mim, ao longo de 12 anos! Obs: Posso explicar linha a linha de toda a aplicação, para que serve o porque foi densenvolvido de tal forma. Obrigado
 
-agradeço desde já
-att. Pedro H Priuli
-espero poder ajudar
+agradeço 
+att. Pedro Henrique
 
