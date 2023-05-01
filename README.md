@@ -1,5 +1,5 @@
 # Fluxo de Caixa
-Cash Flow Project, the project was developed using the GT architecture, access into (https://dev.azure.com/GrantingTechnology-Community/_git/Download-Trial-Version) GT architecture studies
+
 
 Este projeto teve como principal finalidade, apresentar como é fácil desenvolver usando a arquitetura GT, apresento meu projeto de aproximados 11 anos de estudos focados na arquitetura e engenharia de software.
 Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no dia 02/03/2023 17:00.
@@ -32,11 +32,6 @@ caso necessário, os scripts das 2 tabelas utilizadas estão disponiveis individ
 
 # Arquitetura GT
 
-• A arquitetura consiste de multiplos projetos, que se comunicam trazendo alta coesão, oferencendo responsabilidade única e facilidade no entendimento e melhor manutenção. 
-
-• A arquitetura oferece baixo acoplamento, trazendo independencia entre os modulos principais, deixando-os praticamente independentes para o uso de suas soluções desenvolvidas. 
-
-• A comunicação entre dados ( banco ), tem responsabiliade única, oferecendo independencia na escolha do banco , orm ... não afetando as entidades utlizadas, caso haja necessidade de uma futura mudança de banco ou ORM.
 
 Estarei documentando a arquitetura conforme possibilidade, mas continuo trabalhando para facilitar o desenvolvimento e velocidade na produção.
 
