@@ -24,7 +24,7 @@ GO
 
 /****** Object:  Table [dbo].[REGISTER_INOUT]    Script Date: 02/03/2023 19:03:55 ******/
 SET ANSI_NULLS ON
-GO
+GO 
 
 SET QUOTED_IDENTIFIER ON
 GO
