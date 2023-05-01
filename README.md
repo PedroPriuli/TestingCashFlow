@@ -18,7 +18,7 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 # Instalação /Configuração
 
-• Inicialmente a aplicação(softare) não necessitará ajustes na configurações a serem feitas, a não ser que o Murphy entre em cena!
+• Inicialmente a aplicação não precisará de ajustes, mas pode ser que portas sejão alteradas dependendo da maquina, pasa isso só olhar as imagens!
 
 • Necessário ter o framework instalado para NetCore 6(VIsual Studio Installer), também Sdks\Microsoft.NET.Sdk 5.0.413 / 6
 
