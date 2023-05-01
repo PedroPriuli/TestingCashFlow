@@ -22,7 +22,7 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 • Necessário ter o framework instalado para NetCore 6(VIsual Studio Installer), também Sdks\Microsoft.NET.Sdk 5.0.413 / 6, se o VS estiver na ultima versão irá funcionar!
 
-• Verificar se a propriedade da solução, esta setada para multiplos projetos, simultaneos (https://github.com/PedroPriuli/TestingCashFlow/blob/main/property_soution_habil.png)
+• Verificar se a propriedade da solução, esta setada para multiplos projetos, simultaneos (https://raw.githubusercontent.com/PedroPriuli/TestingCashFlow/ac497b90bac130bf080b7f1d3bc030325bb9fd86/Configuration_visual_studio_example.png)
 
 • Baixar o projeto completo (https://github.com/PedroPriuli/TestingCashFlow/blob/main/download) 
 
