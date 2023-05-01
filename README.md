@@ -1,8 +1,7 @@
 # Fluxo de Caixa
 
 
-Este projeto teve como principal finalidade, apresentar como é fácil desenvolver usando a arquitetura GT, apresento meu projeto de aproximados 11 anos de estudos focados na arquitetura e engenharia de software.
-Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no dia 02/03/2023 17:00.
+Este projeto teve como principal finalidade apresentar um projeto completo, Front consumindo serviços de API, em uma arquietura desenvolvida por mim.
 
 # O escopo do projeto foi :
 
@@ -18,7 +17,7 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 # Instalação /Configuração
 
-• Inicialmente a aplicação não precisará de ajustes, mas pode ser que portas sejão alteradas dependendo da maquina, pasa isso só olhar as imagens!
+• Após criar o banco de dados, utilizando SQLExpress, precisará  fazer a mudança no appsettings, alterando para o nome da sua estação de trabalho(máquina), também pode-se ter as portas da API alteradas dependendo da maquina, pasa isso só olhar as imagens como subistituí-las, se necessário
 
 • Necessário ter o framework instalado para NetCore 6(VIsual Studio Installer), também Sdks\Microsoft.NET.Sdk 5.0.413 / 6, se o VS estiver na ultima versão irá funcionar!
 
