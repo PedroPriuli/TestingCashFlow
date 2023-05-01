@@ -26,7 +26,7 @@ Iniciei o projeto TestingCashFlow no dia 28/02/2023 sua primeira entrega foi no 
 
 • Baixar o projeto completo (https://github.com/PedroPriuli/TestingCashFlow/blob/main/download) 
 
-• Baixar o script database SQL (https://github.com/PedroPriuli/TestingCashFlow/blob/main/Sql), script de restauração da base
+• Baixar o script database SQL (https://github.com/PedroPriuli/TestingCashFlow/blob/main/SQL_create_table_single), script de restauração da base
 
 caso necessário, os scripts das 2 tabelas utilizadas estão disponiveis individualmente (https://github.com/PedroPriuli/TestingCashFlow/blob/main/SQL_create_table_single )
 
