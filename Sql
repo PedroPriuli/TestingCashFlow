@@ -1,4 +1,0 @@
-Download SQL restore dababase
-(utiliza este link para baixar o arquivo de backup do banco SQL Express )
-
-https://drive.google.com/file/d/10BXd6RjiVutLxfVdOQ77G_HoPTpsFAYb/view?usp=sharing
